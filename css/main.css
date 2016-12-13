@@ -1,0 +1,64 @@
+.nav {
+  width: 100%;
+  height: 75px;
+  background-color: orange;
+  margin-bottom: 10px;
+}
+
+.box {
+  position: relative;
+  height: 350px;
+  text-align: center;
+  padding-top: 30px;
+  border: 1px solid gray;
+  margin-bottom: 10px
+
+}
+
+.row {
+  margin-bottom: 10px;
+}
+
+.char {
+  text-align: left;
+  top: 5px;
+  padding-left: 5px;
+  font-weight: bold;
+}
+
+.phoc {
+  text-align: left;
+  top: 5px;
+  padding-left: 25px;
+  font-style: italic;
+  font-size: 10px;
+}
+
+.actor {
+  position: relative;
+  width: 100%;
+  margin-top: -30px;
+  max-width: 300px;
+  border-bottom: 1px solid gray;
+}
+
+.heading.subhead {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.heading {
+  position: relative;
+  top: 5px;
+  left: 50px;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.sub-head {
+  position: relative;
+  top: 5px;
+  left: 60px;
+  font-style: italic;
+  font-size: 10px;
+}
